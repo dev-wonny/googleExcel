@@ -1,0 +1,2 @@
+rootProject.name = 'googleExcel'
+implementation 'com.google.api-client:google-api-client:1.30.10'
